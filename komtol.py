@@ -22,8 +22,8 @@ if ans == 'n':
     PassList.append(Pass)
     print(UserList,PassList)
     print("You have created your new accoutn with GipCo, please login\n")
-    User1 = input("Please enter your username: ")
-    Pass1 = input("Please enter your password: ")
+    User1 = input("Please enter your username:x-bador ")
+    Pass1 = input("Please enter your password:x-bador ")
     if User1 == (UserList) and Pass1 == (PassList):
         print("Welcome to XHAN TOOLS, type MENU to enter: ")
 
