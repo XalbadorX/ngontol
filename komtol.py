@@ -43,7 +43,6 @@ print("Subs Han SA:MP")
 
 ip = str(input("> HOST/IP:"))
 port = int(input("> PORT:"))
-choice = str(input("> Password:"))
 times = int(input("> Packet:"))
 threads = int(input("> Theards:"))
 def run():
